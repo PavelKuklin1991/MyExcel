@@ -1,0 +1,24 @@
+{
+  "name": "myexcel",
+  "version": "1.0.0",
+  "description": "My project at course. It's  copy excel, just front end. It's using only javascript without any libraries. ",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelKuklin1991/MyExcel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Pavel Kuklin <pavelkuklinweb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelKuklin1991/MyExcel/issues"
+  },
+  "homepage": "https://github.com/PavelKuklin1991/MyExcel#readme"
+}
